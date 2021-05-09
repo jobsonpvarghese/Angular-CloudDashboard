@@ -1,6 +1,6 @@
 # Dashboard
 
-![A test image](image.png)
+![UI](https://github.com/jobsonpvarghese/Angular-CloudDashboard/blob/main/src/assets/WhatsApp%20Image%202021-05-09%20at%2012.39.04%20AM.jpeg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
